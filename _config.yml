@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Rajendra Satpute
+description: I am a full stack developer exploring new technologies.
+github:
+  is_project_page: false
