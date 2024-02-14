@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.537afa46.css",
-    "main.js": "/static/js/main.abaed731.js",
+    "main.js": "/static/js/main.dfa0d797.js",
     "static/js/27.7e84a972.chunk.js": "/static/js/27.7e84a972.chunk.js",
     "static/media/Inter-ExtraBold.ttf": "/static/media/Inter-ExtraBold.e4a4cb7133001f282a15.ttf",
     "static/media/Inter-Black.ttf": "/static/media/Inter-Black.143c28420846d45c5834.ttf",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.537afa46.css",
-    "static/js/main.abaed731.js"
+    "static/js/main.dfa0d797.js"
   ]
 }
