@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.537afa46.css",
-    "main.js": "/static/js/main.d2b86ed5.js",
+    "main.js": "/static/js/main.e05d5779.js",
     "static/js/27.7e84a972.chunk.js": "/static/js/27.7e84a972.chunk.js",
+    "static/media/ExperienceChart.svg": "/static/media/ExperienceChart.a2539f9b2db76b50338b7990a01317ed.svg",
     "static/media/Inter-ExtraBold.ttf": "/static/media/Inter-ExtraBold.e4a4cb7133001f282a15.ttf",
     "static/media/Inter-Black.ttf": "/static/media/Inter-Black.143c28420846d45c5834.ttf",
     "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
@@ -12,7 +13,6 @@
     "static/media/Inter-Thin.ttf": "/static/media/Inter-Thin.f341ca512063c66296d1.ttf",
     "static/media/Inter-Light.ttf": "/static/media/Inter-Light.eec8664621fec98efb37.ttf",
     "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
-    "static/media/ExperienceChart.svg": "/static/media/ExperienceChart.5e5f57cae1a365420c4fb01b493522d0.svg",
     "static/media/Montserrat-Black.ttf": "/static/media/Montserrat-Black.46e8b3d6aad654578958.ttf",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Montserrat-ExtraBold.ttf": "/static/media/Montserrat-ExtraBold.1944c8d1a118759a4435.ttf",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.537afa46.css",
-    "static/js/main.d2b86ed5.js"
+    "static/js/main.e05d5779.js"
   ]
 }
